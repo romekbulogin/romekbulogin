@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Roman Bulygin
-#### Software Engineer from Russia
+#### Software Engineer
 A beginner Software Engineer and Java/Kotlin Backend Developer from Russia
 
 Skills: Java / C# / Kotlin / Spring / SQL / MySQL / PostgreSQL / Oracle
