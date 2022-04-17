@@ -12,8 +12,8 @@ Skills: Java / C# / Kotlin / Spring / SQL / MySQL / PostgreSQL / Oracle
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/romekbulogin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/romabulyginn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/romek_bulogin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/romek_bulogin)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romekbulogin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romekbulogin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=romekbulogin&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=romekbulogin&show_icons=true&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/romekbulogin)  
