@@ -2,7 +2,7 @@
 #### Software Engineer
 A beginner Software Engineer and Java/Kotlin Backend Developer from Russia
 
-Skills: Java / C# / Kotlin / Spring / SQL / MySQL / PostgreSQL / Oracle
+Skills: Java / C# / Kotlin / Spring / SQL / RabbitMQ
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Kotlin, Spring Boot, JS 
