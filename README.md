@@ -1,13 +1,7 @@
-### Hi there 👋, my name is Roman Bulygin
-#### Software Engineer
-A beginner Software Engineer and Java/Kotlin Backend Developer from Russia
+## Software Engineer
+Java/Kotlin Backend Developer
 
 Skills: Java / C# / Kotlin / Spring / SQL / RabbitMQ
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Kotlin, Spring Boot, JS 
-- 💬 Ask me about Java, Algorithms, Data structures 
-- 📫 How to reach me: roman.bulyg@gmail.com 
 
 <h3>Things I code with</h3>
 <p>
@@ -30,5 +24,3 @@ Skills: Java / C# / Kotlin / Spring / SQL / RabbitMQ
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romekbulogin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=romekbulogin&show_icons=true&theme=dark)  
-
-![Profile views](https://gpvc.arturio.dev/romekbulogin)  
